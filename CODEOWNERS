@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @beoncloud8
+/src/backend/database.py      @beoncloud8
+/src/backend/routers/auth.py  @beoncloud8
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @beoncloud8
